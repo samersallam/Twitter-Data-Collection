@@ -12,8 +12,9 @@ This code is to help collect data from Twitter API using Python programming lang
 - Also, this code supports other data entities collection that do not require pagination like getting trends or users profiles information
 
 - There are three main files:
-twitter_tokens.json: where you have to add the list of available tokens
-twitter_api_preparation.ipynb: where the connection to the APIs is set up. Also, there is a function to show the current status of the required Twitter API for some of chosen end-points
-twitter_data_collection.ipynb: where the data collector classes are defined with some examples about how to run the code
+1. twitter_tokens.json: where you have to add the list of available tokens
+2. twitter_api_preparation.ipynb: where the connection to the APIs is set up. Also, there is a function to show the current status of the   
+   required Twitter API for some of chosen end-points
+3. twitter_data_collection.ipynb: where the data collector classes are defined with some examples about how to run the code
 
 - Also there is a requirements.txt file including the main modules that you have to install before you run the code
