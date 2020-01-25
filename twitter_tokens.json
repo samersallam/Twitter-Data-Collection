@@ -1,0 +1,14 @@
+{"twitter_tokens": [
+	{
+		"consumer_key": "XXXXXXXXXXXXXXXX", 
+		"consumer_secret": "XXXXXXXXXXXX", 
+		"access_token": "XXXXXXXXXXXXXXXXXXXXXX", 
+		"access_token_secret": "XXXXXXXXXXXXXXXXXXX"
+	},
+	{
+		"consumer_key": "XXXXXXXXXXXXXXXX", 
+		"consumer_secret": "XXXXXXXXXXXX", 
+		"access_token": "XXXXXXXXXXXXXXXXXXXXXX", 
+		"access_token_secret": "XXXXXXXXXXXXXXXXXXX"
+	}
+ ]}
